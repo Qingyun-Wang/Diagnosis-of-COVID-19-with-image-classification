@@ -1,4 +1,4 @@
-```
+```markdown
 # COVID-19 Diagnosis from Chest X-Ray Images using CNNs
 
 ## Project Overview
