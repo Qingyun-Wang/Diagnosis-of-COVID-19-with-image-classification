@@ -1,4 +1,4 @@
-```markdown
+```
 # COVID-19 Diagnosis from Chest X-Ray Images using CNNs
 
 ## Project Overview
@@ -22,7 +22,7 @@ To create and activate a virtual environment, follow these steps:
 #### For Windows:
 ```bash
 python -m venv env
-env\Scripts\activate
+env\\Scripts\\activate
 ```
 
 #### For macOS and Linux:
@@ -36,4 +36,5 @@ After setting up and activating the virtual environment, install the required pa
 
 ```bash
 pip install -r requirements.txt
+```
 ```
