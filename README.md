@@ -1,4 +1,3 @@
-```markdown
 # COVID-19 Diagnosis from Chest X-Ray Images using CNNs
 
 ## Project Overview
@@ -37,4 +36,4 @@ After setting up and activating the virtual environment, install the required pa
 ```bash
 pip install -r requirements.txt
 ```
-```
+
